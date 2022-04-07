@@ -1,0 +1,22 @@
+{
+  "name": "hello-ramdajs",
+  "version": "1.0.0",
+  "description": "exploring and understanding ramdajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvesalexsander/hello-ramdajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvesalexsander/hello-ramdajs/issues"
+  },
+  "homepage": "https://github.com/alvesalexsander/hello-ramdajs#readme",
+  "dependencies": {
+    "ramda": "^0.28.0"
+  }
+}
